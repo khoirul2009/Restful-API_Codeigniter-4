@@ -23,6 +23,12 @@ When updating, check the release notes to see if there are any changes you might
 to your `app` folder. The affected files can be copied or merged from
 `vendor/codeigniter4/framework/app`.
 
+## Feature
+
+- CRUD User 
+- Authorization with token JWT
+
+
 ## Setup
 
 Copy `env` to `.env` and tailor for your app, specifically the baseURL
