@@ -26,7 +26,7 @@ to your `app` folder. The affected files can be copied or merged from
 ## Feature
 
 - CRUD User 
-- Authorization with token JWT
+- Authorization with JWT token
 
 
 ## Setup
