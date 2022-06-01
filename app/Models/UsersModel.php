@@ -11,7 +11,7 @@ class UsersModel extends Model
     protected $table = 'users';
     protected $primaryKey = 'id';
     protected $allowedFields = [
-        'username', 'firstname', 'lastname', 'address', 'age', 'avatar', 'password', 'salt', 'created_date', 'refresh_token', 'created_by', 'updated_date', 'updated_by'
+        'username', 'firstname', 'lastname', 'address', 'age', 'avatar', 'password', 'created_date', 'refresh_token', 'created_by', 'updated_date', 'updated_by'
     ];
     protected $returnType = 'App\Entities\Users';
     protected $useTimestamps = false;
